@@ -1,4 +1,4 @@
-# For React TypeScript Learners from Hotaru Mori
+# For React TypeScript Learners from Skywardmind58
 
 # Examples
 
